@@ -5,7 +5,7 @@ import os
 current_time = datetime.datetime.now()
 
 # Define the file path on your desktop
-file_path = "C:\Users\mvipi\Desktop\new 2.txt"
+file_path = r"C:\Users\mvipi\Desktop\new 2.txt"
 
 # Write current time to the file
 with open(file_path, 'w') as file:
