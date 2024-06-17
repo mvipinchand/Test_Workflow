@@ -24,4 +24,4 @@ jobs:
 
       - name: Run Python script
         run: |
-          python C:\Users\mvipi\Desktop\test.py
+          python main.py
